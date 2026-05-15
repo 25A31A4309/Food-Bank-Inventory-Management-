@@ -31,4 +31,6 @@ The system provides a simple menu-driven interface that is easy to understand an
 * Donor & Receiver Management
 * Barcode Scanning System
 
-⭐ This project is a small technological contribution towards building a hunger-free society and promoting smart food management systems.
+⭐ This project is a small technological contribution towards building a hunger-free society and promoting smart food management systems
+
+
