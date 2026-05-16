@@ -20,6 +20,7 @@ public:
 
         cout << "Enter Quantity: ";
         cin >> quantity;
+         cin.ignore();
 
         cout << "Enter Expiry Date (DD/MM/YYYY): ";
         getline(cin, expiryDate);
